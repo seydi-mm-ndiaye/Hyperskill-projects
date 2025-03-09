@@ -1,2 +1,5 @@
 # Hyperskill-projects
-Repository for Hyperskill certificate projects
+Repository gathering Hyperskill projects and certificates.
+
+## Projects done :
+- QR Code Service 
